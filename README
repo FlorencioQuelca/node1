@@ -1,3 +1,4 @@
+---.
 # Objetivo   ENTREGABLE 2
 por: Florencio quelca
  
@@ -5,7 +6,7 @@ por: Florencio quelca
 > 
 
 <aside>
-<img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bac1d108-9af4-43da-a957-e7d338efe19f/icons8-pin-100.png" alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bac1d108-9af4-43da-a957-e7d338efe19f/icons8-pin-100.png" width="40px" /> Es importante que valides el correcto funcionamiento de tu aplicación.
+Es importante que valides el correcto funcionamiento de tu aplicación.
 Debes de cumplir con los requerimientos indicados, las entregas y ten en cuenta las consideraciones listadas.
 Así mismo aprovecha los recursos recomendados.
 
@@ -42,7 +43,7 @@ Así mismo aprovecha los recursos recomendados.
 5. Y deberan de crear 2 registros de cada una de las tablas
 6. Todos esos comandos agreguenlos a un archivo .sql incluyendo el que les generó dbdiagram para la creación de las tablas y subanlo a su class center desde un repositorio en github
 
-
+OPCIONAL
 
 1. Reto opcional!: Crea una tabla pibote que ayude a relacionar M:M entre usuarios y cursos, en la que se guardara los cursos en los que el usuario esta inscrito, y cual es el porcentaje de completado del curso, asi como un review del curso que ya cursó el usuario.
 2. Reto opcional!: Crea un join que traiga como tabla primaria los cursos y todas sus relaciones
